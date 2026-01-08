@@ -323,6 +323,19 @@ php artisan test tests/Feature/ProductTest.php
 - Check logs: `storage/logs/laravel.log`
 - Ensure storage directory is writable
 
+## Screenshots
+
+### Application Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-01-08%20142159.png)
+![Screenshot 2](screenshots/Screenshot%202026-01-08%20142226.png)
+![Screenshot 3](screenshots/Screenshot%202026-01-08%20142238.png)
+![Screenshot 4](screenshots/Screenshot%202026-01-08%20142305.png)
+![Screenshot 5](screenshots/Screenshot%202026-01-08%20142340.png)
+![Screenshot 6](screenshots/Screenshot%202026-01-08%20142356.png)
+![Screenshot 7](screenshots/Screenshot%202026-01-08%20142532.png)
+![Screenshot 8](screenshots/Screenshot%202026-01-08%20142651.png)
+
 ## License
 
 This project is created for assessment purposes.
